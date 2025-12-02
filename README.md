@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominionnnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="dominionnnnnnn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominionnnnnnn" alt="dominionnnnnnn" /></a> </p>
-
 - 🔭 I’m currently working on **Airtrackr**
 
 - 🌱 I’m currently learning **Next js**
